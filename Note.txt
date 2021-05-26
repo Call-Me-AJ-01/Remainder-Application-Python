@@ -1,0 +1,16 @@
+
+---------------------------------------------------------
+Note: Don't delete the Remainder Dataset if deleted then the remainder reader and the remainder setter program will face an issue in opening and writing of files
+---------------------------------------------------------
+
+the format of the remainder must be of 
+
+date      time session content
+30.04.2020 5:21 p.m. hello how r u
+
+example dataset
+
+30.04.2020 5:21 p.m. hello how r u
+30.04.2020 5:21 p.m. hello how r u 1
+30.04.2020 5:21 p.m. hello how r u 2
+30.04.2020 5:21 p.m. hello how r u 3
